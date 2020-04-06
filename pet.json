@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Nia",
+      "species": "catto",
+      "foods": {
+        "likes": [
+          "kibbles",
+          "the nips"
+        ],
+        "dislikes": [
+          "humans",
+          "plastic bag"
+        ]
+      }
+    },
+    {
+      "name": "Shiro",
+      "species": "doggo",
+      "foods": {
+        "likes": [
+          "kibbles",
+          "apparently tissues"
+        ],
+        "dislikes": [
+          "tuna"
+        ]
+      }
+    }
+  ]
